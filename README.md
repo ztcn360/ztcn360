@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ztcn360
-- 👀 I’m interested in web design & editorial design.
+- 👀 I’m interested in technical writing, web design & editorial design.
 <!-- - 🌱 I’m currently learning web tech foundamentals. -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
